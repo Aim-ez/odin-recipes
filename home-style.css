@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(165, 204, 204);
+}
+
+.title {
+    font-family:  "Brush Script MT", cursive;
+    text-align: center;
+    font-size: 75px;
+    font-weight: 700;
+}
+
+.recipe {
+    font-size: 25px;
+    font-family: "Times New Roman", serif;
+    text-underline-offset: 2px;
+}
+
