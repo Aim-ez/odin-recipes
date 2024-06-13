@@ -7,11 +7,26 @@ body {
     text-align: center;
     font-size: 75px;
     font-weight: 700;
+    background-color: aliceblue;
+    border: 10px ridge rgb(88, 88, 218);
+    padding: 20px;
 }
 
 .recipe {
     font-size: 25px;
     font-family: "Times New Roman", serif;
     text-underline-offset: 2px;
+    padding: 8px;
+    width: 200px;
+    background-color: rgb(167, 192, 230);
+    text-align: center;
+    margin: 10px;
+    border: 5px dotted rgba(0, 0, 255, 0.637);
+    list-style: none;
+}
+
+ul :hover {
+    background-color: #52a6dd;
+    color: #fff
 }
 
